@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,8 +29,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
