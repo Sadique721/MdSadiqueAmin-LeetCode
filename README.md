@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,8 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
