@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -83,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -103,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -110,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
