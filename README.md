@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0136-single-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
