@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0231-power-of-two) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
