@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
