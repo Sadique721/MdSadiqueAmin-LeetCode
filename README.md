@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
+| [1518-water-bottles](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1518-water-bottles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
