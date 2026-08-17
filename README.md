@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [1920-build-array-from-permutation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1518-water-bottles) |
+| [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
