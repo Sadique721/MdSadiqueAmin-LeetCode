@@ -1,16 +1,7 @@
 <!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=LeetCode%20Solutions&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Algorithms%20%7C%20Data%20Structures%20%7C%20Problem%20Solving&descAlignY=60&descAlign=50" width="100%">
-</p>
-
-<!-- ========== NEW: HIGH QUALITY HEADER BANNER ========== -->
-<p align="center">
-  <img src="leetcode_banner.jpg" width="100%" alt="MdSadiqueAmin LeetCode Solutions Banner">
-</p>
-
 <!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%2F+Python+Solutions;Data+Structures+%26+Algorithms;Daily+Coding+Challenges;LeetCode+Problem+Solving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Java%20%2f%20Python%20Solutions;Data%20Structures%20%26%20Algorithms;Daily%20Coding%20Challenges;LeetCode%20Problem%20Solving" alt="Typing SVG">
 </p>
 
 <!-- ========== NEW: LEETCODE DYNAMIC STATS CARD ========== -->
