@@ -1,3 +1,25 @@
+<!-- ========== NEW: HIGH QUALITY HEADER BANNER ========== -->
+<p align="center">
+  <img src="leetcode_banner.jpg" width="100%" alt="MdSadiqueAmin LeetCode Solutions Banner">
+</p>
+
+<!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=LeetCode%20Solutions&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Algorithms%20%7C%20Data%20Structures%20%7C%20Problem%20Solving&descAlignY=60&descAlign=50" width="100%">
+</p>
+
+<!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%2F+Python+Solutions;Data+Structures+%26+Algorithms;Daily+Coding+Challenges;LeetCode+Problem+Solving" alt="Typing SVG">
+</p>
+
+<!-- ========== NEW: LEETCODE DYNAMIC STATS CARD ========== -->
+<p align="center">
+  <a href="https://leetcode.com/Sadique721/">
+    <img src="https://leetcard.jacoblin.cool/Sadique721?theme=tokyonight" alt="LeetCode Stats">
+  </a>
+</p>
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -329,3 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
+
+<!-- ========== NEW: FOOTER WAVE ANIMATION ========== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=120&section=footer&width=100%">
+</p>
