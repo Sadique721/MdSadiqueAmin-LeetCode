@@ -1,11 +1,11 @@
-<!-- ========== NEW: HIGH QUALITY HEADER BANNER ========== -->
-<p align="center">
-  <img src="leetcode_banner.jpg" width="100%" alt="MdSadiqueAmin LeetCode Solutions Banner">
-</p>
-
 <!-- ========== NEW: ANIMATED WAVE HEADER ========== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=200&section=header&text=LeetCode%20Solutions&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Algorithms%20%7C%20Data%20Structures%20%7C%20Problem%20Solving&descAlignY=60&descAlign=50" width="100%">
+</p>
+
+<!-- ========== NEW: HIGH QUALITY HEADER BANNER ========== -->
+<p align="center">
+  <img src="leetcode_banner.jpg" width="100%" alt="MdSadiqueAmin LeetCode Solutions Banner">
 </p>
 
 <!-- ========== NEW: TYPING ANIMATION INTRO ========== -->
@@ -19,6 +19,32 @@
     <img src="https://leetcard.jacoblin.cool/Sadique721?theme=tokyonight" alt="LeetCode Stats">
   </a>
 </p>
+
+<!-- ========== NEW: AUTHOR & ARCHITECT SECTION ========== -->
+## 👨‍💻 Author & Architect
+
+<table>
+<tr>
+<td align="center" width="160">
+  <a href="https://github.com/Sadique721">
+    <img src="https://avatars.githubusercontent.com/Sadique721" width="110" style="border-radius:50%"><br>
+    <b>Md Sadique Amin</b><br>
+    <sub>Backend Java Developer</sub>
+  </a>
+</td>
+<td>
+
+**Md Sadique Amin** — Backend Java Developer.
+
+- 🔗 GitHub: [@Sadique721](https://github.com/Sadique721)
+- 📧 Email: mdsadiqueamin721786@gmail.com
+- 🏗️ Built: Enterprise BSS-OSS Telecom Suite, Diameter Protocol Engine, Angular & Flutter Apps, MSA AI Ecosystem
+
+</td>
+</tr>
+</table>
+
+---
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
