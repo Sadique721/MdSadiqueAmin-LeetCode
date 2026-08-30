@@ -38,7 +38,7 @@
 
 - 🔗 GitHub: [@Sadique721](https://github.com/Sadique721)
 - 📧 Email: mdsadiqueamin721786@gmail.com
-- 🏗️ Built: Enterprise BSS-OSS Telecom Suite, Diameter Protocol Engine, Angular & Flutter Apps, MSA AI Ecosystem
+- 🏗️ Built: Enterprise BSS-OSS Telecom Suite, Backend Java Developer, IR Interconnect & Roaming
 
 </td>
 </tr>
