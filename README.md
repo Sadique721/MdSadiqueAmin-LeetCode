@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1872-stone-game-viii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -243,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
