@@ -142,12 +142,14 @@ def detect_problems(repo_root, hours=24, since_arg=None):
 
     problems = {}
 
+    EXCLUDED_DIRS = {".git", ".github", ".specify", ".devcontainer", "scripts", "node_modules", "target", "build", "dist"}
+
     for file_path in changed_files:
         norm_path = file_path.replace("\\", "/")
         parts = [p for p in norm_path.split("/") if p]
 
         # Ignore root files & system dirs
-        if len(parts) < 2 or parts[0] in {".git", ".github", ".specify", ".devcontainer"}:
+        if len(parts) < 2 or parts[0].lower() in EXCLUDED_DIRS:
             continue
         
         # Determine candidate problem directory
@@ -275,6 +277,62 @@ def generate_post_text(problems, repo_url="https://github.com/Sadique721/MdSadiq
 
     return "\n".join(lines)
 
+def validate_and_get_user_info(access_token):
+    """
+    Validate the LinkedIn access token and auto-fetch the user's person URN.
+    Returns (is_valid, person_urn, user_name, error_message).
+    """
+    url = "https://api.linkedin.com/v2/userinfo"
+    headers = {
+        "Authorization": f"Bearer {access_token.strip()}",
+        "User-Agent": "LinkedIn-DSA-Automation"
+    }
+    req = urllib.request.Request(url, headers=headers, method="GET")
+    try:
+        with urllib.request.urlopen(req) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            sub = data.get("sub", "")
+            name = data.get("name", "User")
+            urn = f"urn:li:person:{sub}" if sub else ""
+            return True, urn, name, ""
+    except urllib.error.HTTPError as e:
+        err = e.read().decode("utf-8", errors="ignore")
+        if e.code == 401:
+            return False, "", "", "Token has expired or is invalid (401 Unauthorized)."
+        return False, "", "", f"HTTP {e.code}: {err}"
+    except Exception as e:
+        return False, "", "", str(e)
+
+def create_github_alert_issue(error_msg, repo_name, github_token):
+    """Automatically create an issue in the repo if the LinkedIn token expires."""
+    if not github_token or not repo_name:
+        return
+    url = f"https://api.github.com/repos/{repo_name}/issues"
+    headers = {
+        "Authorization": f"Bearer {github_token}",
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "LinkedIn-Digest-Monitor"
+    }
+    payload = {
+        "title": "🚨 Action Required: LinkedIn Access Token Expired",
+        "body": (
+            "### ⚠️ LinkedIn Token Expiration Alert\n\n"
+            f"The scheduled LinkedIn Daily Digest failed because: **{error_msg}**\n\n"
+            "**Steps to fix (2 minutes):**\n"
+            "1. Visit the [LinkedIn Developer Portal OAuth Tools](https://www.linkedin.com/developers/tools/oauth).\n"
+            "2. Generate a new Token with the `w_member_social` scope.\n"
+            f"3. Update the `LINKEDIN_ACCESS_TOKEN` secret in [Repo Secrets](https://github.com/{repo_name}/settings/secrets/actions).\n\n"
+            "Once updated, your daily updates will automatically resume!"
+        ),
+        "labels": ["token-alert"]
+    }
+    try:
+        req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers, method="POST")
+        urllib.request.urlopen(req)
+        print("📢 Automated GitHub Issue Alert created successfully.")
+    except Exception as e:
+        print(f"[Notice] Could not create GitHub Issue alert: {e}", file=sys.stderr)
+
 def build_linkedin_payload(author_urn, text):
     """Construct LinkedIn UGC Posts API payload."""
     clean_urn = author_urn.strip()
@@ -367,17 +425,33 @@ def main():
 
     token = os.environ.get("LINKEDIN_ACCESS_TOKEN", "").strip()
     person_urn = os.environ.get("LINKEDIN_PERSON_URN", "").strip()
+    repo_name = os.environ.get("GITHUB_REPOSITORY", "").strip()
+    gh_token = os.environ.get("GITHUB_TOKEN", "").strip()
 
-    # Validate payload structure
-    payload = build_linkedin_payload(person_urn or "DEMO_PERSON_URN", post_text)
+    if not token:
+        print("💡 Dry-run notice: LINKEDIN_ACCESS_TOKEN is not configured in GitHub Secrets.")
+        print("   Post generation & schema validation passed successfully.")
+        print(f"📦 Payload schema check: Valid ({len(json.dumps(build_linkedin_payload('DEMO_PERSON_URN', post_text)))} bytes)")
+        sys.exit(0)
+
+    # ── Live Token Health Check ──────────────────────────────────────────
+    print("🔍 Checking LinkedIn Access Token health...")
+    is_valid, discovered_urn, user_name, err_msg = validate_and_get_user_info(token)
+
+    if not is_valid:
+        print(f"❌ Token Health Check FAILED: {err_msg}", file=sys.stderr)
+        create_github_alert_issue(err_msg, repo_name, gh_token)
+        sys.exit(1)
+
+    print(f"✅ Token is Active & Valid! Connected to: {user_name} ({discovered_urn})")
+    
+    # Use auto-discovered URN if not manually provided
+    final_urn = person_urn or discovered_urn
+    payload = build_linkedin_payload(final_urn, post_text)
     print(f"📦 Payload schema check: Valid ({len(json.dumps(payload))} bytes)")
 
-    if args.dry_run or not token or not person_urn:
-        if not token or not person_urn:
-            print("💡 Dry-run notice: LINKEDIN_ACCESS_TOKEN or LINKEDIN_PERSON_URN is not set in environment.")
-            print("   Workflow is validated successfully. To post live, configure GitHub Secrets.")
-        else:
-            print("💡 Dry-run flag enabled: Live API call skipped.")
+    if args.dry_run:
+        print("💡 Dry-run flag enabled: Live API call skipped.")
         sys.exit(0)
 
     print("🌐 Publishing live post to LinkedIn API...")
@@ -388,6 +462,7 @@ def main():
     else:
         print(f"❌ Failed to publish to LinkedIn. (HTTP {status})", file=sys.stderr)
         print(f"Details: {response}", file=sys.stderr)
+        create_github_alert_issue(f"Publish failed with HTTP {status}: {response}", repo_name, gh_token)
         sys.exit(1)
 
 if __name__ == "__main__":

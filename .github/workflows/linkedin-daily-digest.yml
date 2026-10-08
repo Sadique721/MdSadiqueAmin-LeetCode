@@ -20,6 +20,9 @@ on:
 jobs:
   linkedin-digest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
     steps:
       - name: Checkout repository with full commit history
         uses: actions/checkout@v4
@@ -33,6 +36,7 @@ jobs:
 
       - name: Execute LinkedIn Daily Digest Pipeline
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
           LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
           DRY_RUN_INPUT: ${{ github.event.inputs.dry_run }}
