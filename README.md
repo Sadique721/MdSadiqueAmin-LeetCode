@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0877-stone-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0836-rectangle-overlap) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sadique721/MdSadiqueAmin-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
